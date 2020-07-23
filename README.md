@@ -24,4 +24,5 @@
 <ul>
   <li>800+ Lifetime Commits ⌨️</li>
   <li>Arctic Code Vault Contributor 🏔️</li>
+  <li>62 Total Repositories 📁</li>
 </ul>
