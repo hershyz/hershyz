@@ -19,3 +19,9 @@
   <li><a href="https://github.com/hershyz/sampling-models">sampling models</a> - Show Variability Between Population and Sample Statistics Measures</li>
   <li><a href="https://github.com/hershyz/virtual-pid">virtual PID</a> - Virtual PID Algorithm (Robotics)</li>
 </ul>
+
+<h4>Highlights</h4>
+<ul>
+  <li>800+ Lifetime Commits ⌨️</li>
+  <li>Arctic Code Vault Contributor ❄️</li>
+</ul>
