@@ -14,5 +14,8 @@
   <li><a href="https://github.com/hershyz/visualml-3d">visualML 3D</a> - Efficient Prediction Model Based on 3D Geometry</li>
   <li><a href="https://github.com/hershyz/langpercents">langpercents</a> - Show Percentages of Languages Used in a Repository</li>
   <li><a href="https://github.com/hershyz/sheetspread">sheetspread</a> - Identify Outliers in Two Dimensions</li>
-  
+  <li><a href="https://github.com/hershyz/langpercents">langpercents</a> - Show Percentages of Languages Used in a Repository</li>
+  <li><a href="https://github.com/hershyz/robotc">robotC</a> - Source Code for RobotC EV3 Challenges</li>
+  <li><a href="https://github.com/hershyz/sampling-models">sampling models</a> - Show Variability Between Population and Sample Statistics Measures</li>
+  <li><a href="https://github.com/hershyz/virtual-pid">virtual PID</a> - Virtual PID Algorithm (Robotics)</li>
 </ul>
