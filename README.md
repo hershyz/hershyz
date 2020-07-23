@@ -23,5 +23,5 @@
 <h4>Highlights</h4>
 <ul>
   <li>800+ Lifetime Commits ⌨️</li>
-  <li>Arctic Code Vault Contributor ❄️</li>
+  <li>Arctic Code Vault Contributor 🏔️</li>
 </ul>
