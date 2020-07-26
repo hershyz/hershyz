@@ -26,7 +26,3 @@
   <li>Arctic Code Vault Contributor 🏔️</li>
   <li>62 Total Repositories 📁</li>
 </ul>
-
-<br>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hershyz)](https://github.com/anuraghazra/github-readme-stats)
