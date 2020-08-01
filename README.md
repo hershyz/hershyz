@@ -24,6 +24,5 @@
 <ul>
   <li>900+ Lifetime Contributions</li>
   <li>Arctic Code Vault Contributor</li>
-  <li>Developer Program Member</li>
   <li>63 Total Repositories</li>
 </ul>
