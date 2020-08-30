@@ -1,7 +1,6 @@
 <h4>Notable repositories and projects ✔️</h4>
 <ul>
   <li><a href="https://github.com/hershyz/leetcode">leetcode</a> - Solutions to Leetcode Questions</li>
-  <li><a href="https://github.com/hershyz/algorithms">algorithms</a> - Algorithms Code Snippets and Notes</li>
   <li><a href="https://github.com/hershyz/LSTP">LSTP</a> - Neural Network Designed to Minimize Training Runtimes</li>
   <li><a href="https://github.com/hershyz/sherlock.net">sherlock.NET</a> - Find Usernames Across Social Networks</li>
   <li><a href="https://github.com/hershyz/chemtools">chemtools</a> - Chemistry Tools in a Command Line Interface</li>
