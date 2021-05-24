@@ -1,7 +1,7 @@
 ## 👋 &nbsp;Hey there! I'm Hrishikesh.
 
 - 🎓 Student at the Gwinnett School of Mathematics, Science, and Technology.
-- 💻 Currently exploring ML and fullstack.
+- 💻 Currently exploring ML and fullstack frameworks.
 - ⚙️ Working on [HackGwinnett](https://github.com/hackgwinnett).
 
 <br>
