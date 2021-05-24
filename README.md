@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Hrishikesh.
+## 👋 Hey there! I'm Hrishikesh.
 
 - 🎓 Student at the Gwinnett School of Mathematics, Science, and Technology.
 - 💻 Currently exploring ML and fullstack frameworks.
@@ -7,4 +7,13 @@
 ![Hrishikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hershyz&theme=graywhite&show_icons=true)
 
 #### Tech Stack
-[<img height="50px" src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png"/>]()
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-java-30.png"/>]()
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-python-48.png"/>]()
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-c-sharp-logo-50.png"/>]()
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-javascript-50.png"/>]()
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-golang-50.png"/>]()
+[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-flask-50.png"/>]()
+[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-nodejs-32.png"/>]()
+[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-github-48.png"/>]()
+[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-visual-studio-30.png"/>]()
+[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-intellij-idea-48.png"/>]()
