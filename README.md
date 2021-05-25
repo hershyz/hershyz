@@ -17,3 +17,7 @@
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-github-48.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-visual-studio-30.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-intellij-idea-48.png"/>]()
+
+#### Connect
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-instagram-52.png"/>](https://www.instagram.com/hershyz)
+[<img height="34px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-gmail-100.png"/>](mailto:hbagalkote@gmail.com)
