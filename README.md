@@ -20,4 +20,4 @@
 
 #### Connect
 [<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-instagram-52.png"/>](https://www.instagram.com/hershyz)
-[<img height="34px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-gmail-100.png"/>](mailto:hbagalkote@gmail.com)
+[<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-gmail-100.png"/>](mailto:hbagalkote@gmail.com)
