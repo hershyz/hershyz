@@ -14,7 +14,6 @@
 [<img height="30px" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-golang-50.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-flask-50.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-nodejs-32.png"/>]()
-[<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-flutter-50.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-github-48.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-visual-studio-30.png"/>]()
 [<img height="30x" src="https://raw.githubusercontent.com/hershyz/hershyz/master/assets/icons8-intellij-idea-48.png"/>]()
